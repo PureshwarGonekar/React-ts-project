@@ -71,9 +71,10 @@ npm start
 
 The application will be available at `http://localhost:3000`.
 
-## Project Structure
+## Snapshots
+![Screenshot (174)](https://github.com/PureshwarGonekar/React-ts-project/assets/88015818/62a8d70a-5f43-4516-b5d5-25a494d76851)
+![Screenshot (175)](https://github.com/PureshwarGonekar/React-ts-project/assets/88015818/59841d86-b5a1-48ef-8de4-c4369a3f4f6e)
 
-The project structure is organized as follows:
 
 
 ## Functionality
